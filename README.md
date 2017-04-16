@@ -4,8 +4,7 @@
 На вход программе подается папка.
 
 Пример использование:
-        duplicates.py /
-	    duplicates.py /temp/
+        duplicates.py /  или duplicates.py /temp/
 
 # Project Goals
 
