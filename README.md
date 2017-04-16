@@ -1,6 +1,11 @@
 # Anti-Duplicator
 
-[TODO. There will be project description]
+Программа для поиска дубликатов файлов в папке.
+На вход программе подается папка.
+
+Пример использование:
+        duplicates.py /
+	    duplicates.py /temp/
 
 # Project Goals
 
